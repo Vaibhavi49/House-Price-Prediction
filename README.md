@@ -44,3 +44,9 @@ To build a real-world regression model that accurately predicts house prices and
 ---
 
 ## 📁 Project Structure
+house-price-prediction/
+│
+├── app.py
+├── model.pkl
+├── requirements.txt 
+├── README.md 
