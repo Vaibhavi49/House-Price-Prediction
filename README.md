@@ -2,8 +2,7 @@
 
 A machine learning-based web application that predicts house prices based on key property features, built with an end-to-end pipeline from data preprocessing to deployment.
 
-## 🔗 Live Demo
-https://vaibhavi49-house-price-prediction-enuxhcf7nlmxdbmkgj9hz3.streamlit.app
+ - 🔗 Live Demo: https://vaibhavi49-house-price-prediction-enuxhcf7nlmxdbmkgj9hz3.streamlit.app
 
 ---
 
